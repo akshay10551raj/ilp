@@ -1,8 +1,9 @@
-"use client";
+'use client';
 import React, { useState } from "react";
 import { HoveredLink, Menu, MenuItem, ProductItem } from "./ui/navbar-menu";
 import { cn } from "@/utils/cn";
 import Link from "next/link";
+
 
 function Navbar({ className }: { className?: string }) {
     const [active, setActive] = useState<string | null>(null);
@@ -20,7 +21,7 @@ function Navbar({ className }: { className?: string }) {
             <MenuItem setActive={setActive} active={active} item="COMPRESSPDF">
              </MenuItem>
              <MenuItem setActive={setActive} active={active} item="CONVERTPDF">
-             <table className="border-collapse: collapse;border: 1px solid gray;width: calc(50% - 10px);float: left;margin: 5px;">
+             <table>
               <tr>
                 <th>CONVERT TO PDF</th>
                 <th>CONVERT FROM PDF</th>
