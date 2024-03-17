@@ -1,0 +1,200 @@
+{
+    "tools":[
+        {
+            "id":1,
+            "title":"Merge PDF",
+            "slug":"merge-pdf",
+            "description":"Combine PDFs in the order you want with the easiest PDF merger available.",
+            "isFeatured":true,
+            "image":""
+        },
+        {
+            "id":2,
+            "title":"Split PDF",
+            "slug":"split-pdf",
+            "description":"Separate one page or a whole set for easy conversion into independent PDF files.",
+            "isFeatured":true,
+            "image":""
+        },
+        {
+            "id":3,
+            "title":"Compress PDF",
+            "slug":"compress-pdf",
+            "description":"Reduce file size while optimizing for maximal PDF quality.",
+            "isFeatured":true,
+            "image":""
+        },
+        {
+            "id":4,
+            "title":"PDF to WORD",
+            "slug":"pdf-to-word",
+            "description":"Easily convert your PDF files into easy to edit DOC and DOCX documents. The converted WORD document is almost 100% accurate.",
+            "isFeatured":true,
+            "image":""
+        },
+        {
+            "id":5,
+            "title":"PDF to POWERPOINT",
+            "slug":"pdf-to-powerpoint",
+            "description":"Turn your PDF files into easy to edit PPT and PPTX slideshows.",
+            "isFeatured":true,
+            "image":""
+        },
+        {
+            "id":6,
+            "title":"PDF to EXCEL",
+            "slug":"pdf-to-excel",
+            "description":"Pull data straight from PDFs into Excel spreadsheets in a few short seconds.",
+            "isFeatured":true,
+            "image":""
+        },
+        {
+            "id":7,
+            "title":" WORD to PDF",
+            "slug":"word-to-pdf",
+            "description":"Make DOC and DOCX files easy to read by converting them to PDF.",
+            "isFeatured":true,
+            "image":""
+        },
+        {
+            "id":8,
+            "title":"POWERPOINT to PDF",
+            "slug":"wpowerpoint-to-pdf",
+            "description":"Make PPT and PPTX slideshows easy to view by converting them to PDF.",
+            "isFeatured":true,
+            "image":""
+        },
+        {
+            "id":9,
+            "title":"EXCEL to PDF",
+            "slug":"excel-to-pdf",
+            "description":"Make EXCEL spreadsheets easy to read by converting them to PDF.",
+            "isFeatured":true,
+            "image":""
+        },
+        {
+            "id":10,
+            "title":"PDF Edit",
+            "slug":"pdf-edit",
+            "description":"Add text, images, shapes or freehand annotations to a PDF document. Edit the size, font, and color of the added content.",
+            "isFeatured":true,
+            "image":""
+        },
+        {
+            "id":11,
+            "title":"PDF to JPG",
+            "slug":"pdf-to-jpg",
+            "description":"Convert each PDF page into a JPG or extract all images contained in a PDF.",
+            "isFeatured":true,
+            "image":""
+        },
+        {
+            "id":12,
+            "title":"JPG to PDF",
+            "slug":"jpg-to-pdf",
+            "description":"Convert JPG images to PDF in seconds. Easily adjust orientation and margins.",
+            "isFeatured":true,
+            "image":""
+        },
+        {
+            "id":13,
+            "title":"Sign PDF",
+            "slug":"sign-pdf",
+            "description":"Sign yourself or request electronic signatures from others.",
+            "isFeatured":true,
+            "image":""
+        },
+        {
+            "id":14,
+            "title":"Watermark",
+            "slug":"watermark",
+            "description":"Stamp an image or text over your PDF in seconds. Choose the typography, transparency and position.",
+            "isFeatured":true,
+            "image":""
+        },
+        {
+            "id":15,
+            "title":"Rotate PDF",
+            "slug":"rotate-pdf",
+            "description":"Rotate your PDFs the way you need them. You can even rotate multiple PDFs at once!",
+            "isFeatured":true,
+            "image":""
+        },
+        {
+            "id":16,
+            "title":"HTML to PDF",
+            "slug":"html-to-pdf",
+            "description":"Convert webpages in HTML to PDF. Copy and paste the URL of the page you want and convert it to PDF with a click.",
+            "isFeatured":true,
+            "image":""
+        },
+        {
+            "id":17,
+            "title":"Unlock PDF",
+            "slug":"unlock-pdf",
+            "description":"Remove PDF password security, giving you the freedom to use your PDFs as you want.",
+            "isFeatured":true,
+            "image":""
+        },
+        {
+            "id":18,
+            "title":"Protect PDF",
+            "slug":"protect-pdf",
+            "description":"Protect PDF files with a password. Encrypt PDF documents to prevent unauthorized access.",
+            "isFeatured":true,
+            "image":""
+        },
+        {
+            "id":19,
+            "title":"Organize PDF",
+            "slug":"organize-pdf",
+            "description":"Sort pages of your PDF file however you like. Delete PDF pages or add PDF pages to your document at your convenience.",
+            "isFeatured":true,
+            "image":""
+        },
+        {
+            "id":20,
+            "title":"PDF to PDF/A",
+            "slug":"pdf-to-pdf/a",
+            "description":"Transform your PDF to PDF/A, the ISO-standardized version of PDF for long-term archiving. Your PDF will preserve formatting when accessed in the future.",
+            "isFeatured":true,
+            "image":""
+        },
+        {
+            "id":21,
+            "title":"Repair PDF",
+            "slug":"repair-pdf",
+            "description":"Repair a damaged PDF and recover data from corrupt PDF. Fix PDF files with our Repair tool.",
+            "isFeatured":true,
+            "image":""
+        },
+        {
+            "id":22,
+            "title":"PDF numbers",
+            "slug":"pdf-numbers",
+            "description":"Add page numbers into PDFs with ease. Choose your positions, dimensions, typography.",
+            "isFeatured":true,
+            "image":""
+        },
+        {
+            "id":23,
+            "title":"Scan to PDF",
+            "slug":"scan-to-pdf",
+            "description":"Capture document scans from your mobile device and send them instantly to your browser.",
+            "isFeatured":true,
+            "image":""
+        },
+        {
+            "id":24,
+            "title":"OCR PDF",
+            "slug":"ocr-pdf",
+            "description":"Easily convert scanned PDF into searchable and selectable documents.",
+            "isFeatured":true,
+            "image":""
+        }
+        
+
+
+        
+    ]
+}
